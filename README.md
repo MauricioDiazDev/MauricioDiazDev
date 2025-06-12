@@ -10,7 +10,7 @@
 
  
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+  <img align="right" alt="meme" src="./assets/meme.jpg" />
 
 **About Me!**
 
