@@ -22,10 +22,10 @@
 
 **Languages and Tools:**  
 
-<code><img height="40" src="./assets/html.png"></code> HTML
+<img height="40" src="./assets/html.png"> HTML
 <code><img height="40" src="./assets/css.png"></code> CSS
 <code><img height="40" src="./assets/javascript.png"></code> Javascript
 <code><img height="40" src="./assets/php-svgrepo-com.png"></code> PHP
 <code><img height="40" src="./assets/python.png"></code> Python
-<code><img height="40" src="./assets/asjava.png"></code> Java
+<code><img height="40" src="./assets/java.png"></code> Java
 <code><img height="40" src="/assets/django.png"></code> Django
