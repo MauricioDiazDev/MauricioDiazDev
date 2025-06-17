@@ -25,7 +25,6 @@
 ![Static Badge](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript&logoSize=auto&labelColor=black&color=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoSize=auto&labelColor=black&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoSize=auto&labelColor=black&color=%23663399)
-
 ![Static Badge](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoSize=auto&labelColor=black&color=%237952B3)
 
 <br>   
