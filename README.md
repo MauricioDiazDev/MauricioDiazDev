@@ -22,13 +22,13 @@
 
 **Languages and Tools:**  
 <div>
-  <img height="40" src="./assets/html.png"> HTML
-  <img height="40" src="./assets/css.png"> CSS
-  <img height="40" src="./assets/javascript.png"> Javascript
+  <img height="40" src="./assets/html.png">
+  <img height="40" src="./assets/css.png">
+  <img height="40" src="./assets/javascript.png">
 </div>
 <div>
-<img height="40" src="./assets/php-svgrepo-com.png"> PHP
-<img height="40" src="./assets/python.png"> Python
-<img height="40" src="./assets/java.png"> Java
-<img height="40" src="/assets/django.png"> Django
-</div>div>
+<img height="40" src="./assets/php-svgrepo-com.png">
+<img height="40" src="./assets/python.png">
+<img height="40" src="./assets/java.png">
+<img height="40" src="/assets/django.png">
+</div>
